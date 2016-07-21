@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 #define num_personel 5
 #define name_length 30
 #define passwordLength 15
@@ -7,7 +10,6 @@ int password();
 
 void searchName();
 
-//asfsdafds
 int main()
 {
    int k=1;
